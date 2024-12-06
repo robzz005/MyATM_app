@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp lapTop\\source\\repos\\myATM_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615486FA-477F-40D3-B8AD-844E69310954}|myATM_app.vcxproj|C:\\Users\\hp lapTop\\source\\repos\\myATM_app\\ATMapp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{615486FA-477F-40D3-B8AD-844E69310954}|myATM_app.vcxproj|solutionrelative:ATMapp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMapp.cpp",
+              "DocumentMoniker": "C:\\Users\\hp lapTop\\source\\repos\\myATM_app\\ATMapp.cpp",
+              "RelativeDocumentMoniker": "ATMapp.cpp",
+              "ToolTip": "C:\\Users\\hp lapTop\\source\\repos\\myATM_app\\ATMapp.cpp",
+              "RelativeToolTip": "ATMapp.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T16:57:07.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
